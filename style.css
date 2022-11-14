@@ -1,0 +1,56 @@
+body{
+	background-color: rgb(150, 150, 150);
+	color: rgb(10, 10, 10);
+	font-size:  20px;
+	font-weight: bold;
+	font-family: helvetica;
+
+
+	}
+	h1, h2, h3 {
+		font-family: Courier;
+		text-align: center;
+	}
+	img{
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+
+
+	}
+
+	h1 {
+		color: darkred;
+		font-family:  courier;
+		font-size: 40px;
+		margin-bottom: 100px;
+	}
+
+	h2 {
+		color: darkred;
+		font-family: courier;
+		font-size: 35px;
+
+	}
+
+
+	a {
+		color: darkred;
+	}
+	a:hover {
+		color: rgb(250, 250, 250);
+	}
+	.img-circle {
+		border-radius: 50%;
+	}
+	.shadowed {
+		box-shadow: 2px 2px 1px black;
+	}
+	#leader {
+		border: 4px solid darkred;
+	}
+}
+
+
+
